@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Daily SEO Hero
+                    <h1>Daily SEO Hero</h1>
                 </div>
             </div>
         </div>
